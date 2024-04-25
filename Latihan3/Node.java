@@ -27,7 +27,7 @@ public class Node {
     public Node getNext() {
     	return next;
     }
-
+}
 
 
 	
