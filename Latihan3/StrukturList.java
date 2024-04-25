@@ -1,6 +1,6 @@
 package Latihan3;
 
-public class StrukturList 
+public class StrukturList {
     private Node HEAD;
 
     // Konstruktor untuk inisialisasi HEAD
